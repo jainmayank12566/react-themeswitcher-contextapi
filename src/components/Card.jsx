@@ -3,7 +3,8 @@ import React from 'react'
 export default function Card() {
     return (
         <div className="w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-                <img className="p-8 rounded-t-lg" src="https://www.munatycooking.com/wp-content/uploads/2014/04/Indian-Tea-Karak-Chai-feature-image-2022-500x500.jpg" alt="product_image1" />
+                {/* <img className="p-8 rounded-t-lg" src="https://www.munatycooking.com/wp-content/uploads/2014/04/Indian-Tea-Karak-Chai-feature-image-2022-500x500.jpg" alt="product_image1" /> */}
+                <img className="p-8 rounded-t-lg" src="https://www.dermaessentia.com/cdn/shop/articles/Top_5_Green_Tea_Benefits_For_Skin_720x.jpg?v=1665384776" alt="product_image1" />
             <div className="px-5 pb-5">
                 <a href="/">
                     <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
